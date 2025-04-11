@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Joy!</h1>
 
-<!--
-**joy-chukwu/joy-chukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Frontend Developer | 🎨 Creative
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Skills
+- HTML
+- CSS
+- JavaScript
+- Tailwind.css
+- Bootstrap
+- React.js
+- Next.js
+- Responsive Designs
+
+### 💼 Projects I'm proud of:
+- [My Portfolio Website](https://github.com/joy-chukwu/portfolio)
+- [Firi- a private repo](#)
+
+---
+
+### 📫 Let's Connect:
+- Instagram: [@joyy.ck](https://www.instagram.com/joyy.ck/)
+- LinkedIn: [Joy Chukwu](https://linkedin.com/in/joy-chukwu-ng)
+- Portfolio: 
+
+---
+
+<p align="center">
+  Made with ❤️ by Joy
+</p>
+
