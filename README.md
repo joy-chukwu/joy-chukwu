@@ -37,7 +37,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=joy-chukwu&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Joy's GitHub Stats&theme=vue&icon_color=4b4b4b&text_color=4b4b4b&bg_color=00000000&hide=issues,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=joy-chukwu&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=vue&icon_color=4b4b4b&text_color=4b4b4b&bg_color=00000000&hide=issues"
     width="340"
     alt="Joy's GitHub stats"
   />
@@ -50,6 +50,7 @@
     alt="GitHub streak"
   />
 </p>
+
 
 ---
 
