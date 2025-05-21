@@ -33,20 +33,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=joy-chukwu&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"
-    width="350"
-    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=joy-chukwu&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Joy's GitHub Stats&theme=vue&icon_color=4b4b4b&text_color=4b4b4b&bg_color=00000000&hide=issues,contribs"
+    width="340"
+    alt="Joy's GitHub stats"
   />
 </p>
 
+<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=joy-chukwu&theme=vue&hide_border=true&background=FFFFFF00&dates=555&ring=9c88ff&fire=ff6b81&currStreakLabel=9c88ff"
-    width="350" 
-    alt="Joy's GitHub streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=joy-chukwu&hide_border=true&theme=vue&background=FFFFFF00&ring=4b4b4b&fire=4b4b4b&currStreakLabel=4b4b4b"
+    width="340"
+    alt="GitHub streak"
   />
 </p>
 
